@@ -1,6 +1,6 @@
 <script type="text/javascript">
      function onSubmit() {
-          if (document.getElementById('password').value == 'itsnovember') {window.location.href = 'http://trialstaff.astracommunity.xyz'; }else{ alert('Please check your passcode and try again');}
+          if (document.getElementById('password').value == 'itsnovember') {window.location.href = 'http://trialstaff.astracommunity.xyz/d0smwks9w3j5n7/3m5m7n3idn93md/sk2m4slemc0d3/djem3oa93md.html'; }else{ alert('Please check your passcode and try again');}
      }
 </script>
 
