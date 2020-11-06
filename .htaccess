@@ -15,5 +15,5 @@ RewriteRule ^(.*)/index\.html$ /$1/ [R=301,L]
 
 AuthType Basic
 AuthName "Password Protected Area"
-AuthUserFile /.htpassword
+AuthUserFile astralounge/trialstaffpage/.htpassword
 Require valid-user
